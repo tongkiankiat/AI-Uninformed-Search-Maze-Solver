@@ -1,2 +1,2 @@
-# cs3243project1
+# AI Uninformed Search Maze Solver
 AI Uninformed Search Project
